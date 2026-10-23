@@ -23,6 +23,7 @@ Reglas para asistentes de IA en este repositorio.
 - `main` solo avanza con fast-forward desde `dev`.
 - Commits con Conventional Commits.
 - Un PR está terminado cuando cumple la checklist de su plantilla.
+- Issues y PR: títulos en inglés (el del PR será el commit del squash) y descripción en español.
 
 ## Seguridad
 - Nunca secretos en el repositorio: variables de entorno o `dotnet user-secrets`.
